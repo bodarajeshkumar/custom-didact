@@ -1,0 +1,16 @@
+apiVersion: v2
+publisher: Rajesh
+name: customdidact-ext
+version: 0.0.2
+type: VS Code extension
+displayName: CustomDidact
+title: Custom Didact
+description: This is cloudant explorer
+icon: https://www-03.ibm.com/press/us/en/attachment/20190.wss?fileId=ATTACH_FILE2&fileName=ibmpos_blue.jpg
+repository: https://github.com/IBM/vscode-custom-didact
+category: Editor
+firstPublicationDate: '2022-03-25'
+spec:
+    extensions:
+        - https://raw.githubusercontent.com/bodarajeshkumar/custom-didact/main/custom-didact-0.0.1.vsix
+latestUpdateDate: "2022-03-25"
