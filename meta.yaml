@@ -1,4 +1,4 @@
-rapiVersion: v2
+apiVersion: v2
 publisher: Rajesh
 name: framework-ext
 version: 0.0.2
