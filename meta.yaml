@@ -12,5 +12,5 @@ category: Editor
 firstPublicationDate: '2022-08-23'
 spec:
     extensions:
-        - https://raw.githubusercontent.com/bodarajeshkumar/custom-didact/main/framework_extension.vsix
+        - https://devplayground-tmp.s3.us-south.cloud-object-storage.appdomain.cloud/playground/next/framework_extension.vsix
 latestUpdateDate: "2022-03-25"
